@@ -1,0 +1,10 @@
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\bin\Debug\tarea_2ED.exe.config
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\bin\Debug\tarea_2ED.exe
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\bin\Debug\tarea_2ED.pdb
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\obj\Debug\tarea_2ED.csprojResolveAssemblyReference.cache
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\obj\Debug\tarea_2ED.Form1.resources
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\obj\Debug\tarea_2ED.Properties.Resources.resources
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\obj\Debug\tarea_2ED.csproj.GenerateResource.Cache
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\obj\Debug\tarea_2ED.csproj.CoreCompileInputs.cache
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\obj\Debug\tarea_2ED.exe
+C:\Users\Michelita\source\repos\tarea_2ED\tarea_2ED\obj\Debug\tarea_2ED.pdb
